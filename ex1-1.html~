@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ja">
+  
+  <head>
+    <meta charset="UTF-8">
+    <title>演習課題</title>
+  </head>
+  <input type="text" placeholder="ついーと">
+  <ul>
+    <li>ば</li>
+    <li>な</li>
+    <li>な</li>
+  </ul>
+</input>
+  <body>
+    
+  </body>
+
+</html>
